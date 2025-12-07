@@ -1,5 +1,10 @@
-A soothing visual theme crafted to bring a calm, immersive environment to your daily workflow.
+# Fun + aesthetic tone (Catppuccin vibes)
 
+Bring your desktop to life with a soft, mocha-flavored theme that turns your workflow into a pastel anime-coding paradise.
+Warm highlights, neon accents, character art, and organized system dashboards — everything harmonizes like a calm lo-fi playlist.
+
+Cute. Cozy. Caffeinated.
+Perfect for late-night coding vibes.
 
 <img width="2240" height="1400" alt="1" src="https://github.com/user-attachments/assets/7345648f-db17-44f5-a8bf-00d25ab1afed" />
 <img width="2240" height="1400" alt="screenshot-2025-12-06_17-59-39" src="https://github.com/user-attachments/assets/20070064-21e2-45c3-bec2-0544887ed0a2" />
