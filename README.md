@@ -34,5 +34,5 @@ See `new_waybar` for waybar.
 For this waybay check out the mocha directory !
 <img width="2238" height="87" alt="screenshot-2025-12-25_23-43-14" src="https://github.com/user-attachments/assets/3cb38ddb-3135-4aad-98eb-014961769863" />
 
-See 'mocha' for above waybar. 
+See `mocha` for waybar. 
 
