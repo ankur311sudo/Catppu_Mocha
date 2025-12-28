@@ -25,6 +25,11 @@ To install this theme, simply use the `omarchy-theme-install` command:
 omarchy-theme-install https://github.com/ankur311sudo/catppu_mocha
 ```
 
+## Walker Previews
+<img width="1356" height="697" alt="screenshot-2025-12-28_19-54-46" src="https://github.com/user-attachments/assets/76543252-fdda-4241-b5c3-4d1273cc4148" />
+
+<img width="2240" height="1400" alt="screenshot-2025-12-28_18-07-25" src="https://github.com/user-attachments/assets/7ccddda9-59b2-483d-892f-1dd499101bec" />
+
 ## Waybar Configuration
 
 For the below waybar just copy the config.jsonc and style.css file present int the new_waybar directory and enjoy the catppu_mocha waybar 😼!
