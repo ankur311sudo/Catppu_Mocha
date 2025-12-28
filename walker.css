@@ -1,22 +1,22 @@
 @define-color selected-text #8caaee;
 @define-color text #c6d0f5;
-@define-color base #24273a;
+@define-color base #323243;
 @define-color border #c6d0f5;
 @define-color foreground #c6d0f5;
 @define-color background #11111b;
 
 window .box-wrapper {
   background: @background;
-  padding: 8px;
+  padding: 12px;
   color: @text;
-  border: 1px solid @border;
-  border-radius: 2px;
+  border: 2px solid @base;
+  border-radius: 10px;
   margin: 0;
 }
 
 window .search-container {
-  background: transparent;
-  border-radius: 4;
+  background: #1f1c31;
+  border-radius: 8px;
 }
 
 window .placeholder {
@@ -34,7 +34,7 @@ child {
   padding: 0 8px;
   background: transparent;
   border-radius: 0;
-  border-left: 2px solid transparent;
+  border-left: 0px solid transparent;
   transition: all 160ms ease-in-out;
 }
 
