@@ -44,7 +44,7 @@ For this waybay check out the mocha directory !
 
 See `mocha` for waybar. 
 
-For this waybay check out the mocha directory !
+For this waybay check out the floatbar directory !
 
 <img width="962" height="77" alt="screenshot-2026-01-16_14-35-20" src="https://github.com/user-attachments/assets/02fee47c-ed9e-4b58-b9e6-b8be273f05ea" />
 
